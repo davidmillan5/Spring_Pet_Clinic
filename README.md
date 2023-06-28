@@ -1,1 +1,3 @@
 # Spring Pet Clinic Project
+
+This project uses Spring Framework...
