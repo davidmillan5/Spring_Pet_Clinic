@@ -12,6 +12,8 @@
     <groupId>com.spring</groupId>
     <artifactId>pet-clinic-data</artifactId>
 
+
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -59,6 +61,7 @@
     </build>
 
     <properties>
+        <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
         <maven.compiler.source>18</maven.compiler.source>
         <maven.compiler.target>18</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
