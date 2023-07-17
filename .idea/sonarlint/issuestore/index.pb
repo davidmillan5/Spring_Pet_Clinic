@@ -5,3 +5,13 @@ hsfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/
 gsfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/services/PetService.java,b\3\b373593d58abe10ba10d943d9a162fb40f340a96
 ™
 isfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/services/OwnerService.java,1\0\10a972ba17b594f74efb647dc5242a8dad685752
+ž
+nsfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/services/map/VetServiceMap.java,3\9\39a12a9d1157c5a2ad45e3b18c87a839fb56141a
+ž
+nsfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/services/map/PetServiceMap.java,9\f\9fe16bff51aeca56fb71a5dd82c27a62eaa1fa67
+ 
+psfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/services/map/OwnerServiceMap.java,4\8\48f6fcdcb8f751a8c1d4157fe6f1f1e7c8336cf7
+£
+ssfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/services/map/AbstractMapService.java,3\d\3d5120f132a52ff9e927ddd9b236dfa9926a21ae
+—
+gsfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/services/VetService.java,2\0\2058fe63dae2ec163177a251ae858e448a21cc54
