@@ -9,8 +9,6 @@ ssfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/
 gsfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/services/VetService.java,2\0\2058fe63dae2ec163177a251ae858e448a21cc54
 ž
 nsfg-pet-clinic/pet-clinic-web/src/main/java/com/spring/petclinic/sfgpetclinic/controllers/IndexController.java,3\2\320a7be3ecdd0b35b25b45004b2373f423663dcb
-œ
-lsfg-pet-clinic/pet-clinic-web/src/main/java/com/spring/petclinic/sfgpetclinic/controllers/VetController.java,d\5\d5e3d7428b2bb8866e087e2b9f030e0678898ccf
 ™
 isfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/services/OwnerService.java,1\0\10a972ba17b594f74efb647dc5242a8dad685752
 š
