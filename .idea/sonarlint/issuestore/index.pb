@@ -23,8 +23,6 @@ psfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/
 nsfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/services/map/PetServiceMap.java,9\f\9fe16bff51aeca56fb71a5dd82c27a62eaa1fa67
 ž
 nsfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/services/map/VetServiceMap.java,3\9\39a12a9d1157c5a2ad45e3b18c87a839fb56141a
-—
-gsfg-pet-clinic/pet-clinic-web/src/main/java/com/spring/petclinic/sfgpetclinic/bootstrap/DataLoader.java,3\4\34827d3c70a6aa158f19da1df73237fa6eb64005
 g
 7sfg-pet-clinic/pet-clinic-web/src/main/less/header.less,f\2\f27a991cbdf4250849958dc3099cc966f5e4908b
 j
