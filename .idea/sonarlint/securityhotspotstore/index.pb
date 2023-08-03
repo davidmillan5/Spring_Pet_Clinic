@@ -15,10 +15,6 @@ dsfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/
 nsfg-pet-clinic/pet-clinic-web/src/main/java/com/spring/petclinic/sfgpetclinic/controllers/OwnerController.java,d\9\d993285728fc42e882f58ef52974b16df85b55e4
 œ
 lsfg-pet-clinic/pet-clinic-web/src/main/java/com/spring/petclinic/sfgpetclinic/controllers/VetController.java,d\5\d5e3d7428b2bb8866e087e2b9f030e0678898ccf
-ž
-nsfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/services/map/VetServiceMap.java,3\9\39a12a9d1157c5a2ad45e3b18c87a839fb56141a
-ž
-nsfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/services/map/PetServiceMap.java,9\f\9fe16bff51aeca56fb71a5dd82c27a62eaa1fa67
 £
 ssfg-pet-clinic/pet-clinic-data/src/main/java/com/spring/petclinic/sfgpetclinic/services/map/AbstractMapService.java,3\d\3d5120f132a52ff9e927ddd9b236dfa9926a21ae
 k
